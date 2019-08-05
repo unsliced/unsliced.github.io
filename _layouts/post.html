@@ -9,6 +9,12 @@ layout: default
     {{ content }}
   </div>
 
+	<small>
+	    {% for tag in page.tags %}
+	    <a href="/tags/{{ tag }}/">{{ tag }}</a>
+	    {% endfor %}
+	</small>
+
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
   </div>
