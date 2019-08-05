@@ -10,4 +10,4 @@ The blog will be here to keep notes and instructions.
 
 Need to look into the [front matter variables issue](https://jekyllrb.com/docs/front-matter/), especially to get tags working. 
 
-There is some sort of [semi-manual solution here](https://www.assertnotmagic.com/2017/04/25/jekyll-tags-the-easy-way/) - worth investigating. 
+There is some sort of [semi-manual solution here](https://www.assertnotmagic.com/2017/04/25/jekyll-tags-the-easy-way/) - worth investigating. This seems to be a workable solution, but you must remember to create a *tags/new_tag.md* file for each new tag. 
