@@ -7,7 +7,6 @@ tags: admin
 
 On this page will live a list of things to do on the site: ideas, suggestions, thoughts, speculation 
 
-
 - twitter or similar in the right-column 
 - automate the tags pages 
 - put the dates in the main list 
@@ -17,7 +16,7 @@ On this page will live a list of things to do on the site: ideas, suggestions, t
 - limit the front page to *some time limit* or *most recent x posts*
 - break the all pages in months
 - grab a favicon.ico image 
-  
+- date for the posts on the front page 
 
 And, then there are some posts with [questions](/tags/question), almost certainly content, not structural to this site! 
 
