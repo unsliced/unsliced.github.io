@@ -14,7 +14,7 @@ On this page will live a list of things to do on the site: ideas, suggestions, t
 - have a place for known useful links
   - [https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]
 - limit the front page to *some time limit* or *most recent x posts*
-- break the all pages in months
+- break the all pages into months
 - grab a favicon.ico image 
 - date for the posts on the front page 
 
